@@ -1,12 +1,12 @@
 # SpatialVOC2K
 A Multilingual Dataset of Images with Annotations for Spatial  Relations between Objects
 
-### Download the paper from:
+#### Download the paper from:
 https://www.aclweb.org/anthology/W18-6516
 
-### Bibtex:
+#### Bibtex:
 
-@inproceedings{Belzetal2019,
+@inproceedings{Belzetal2019,\s\s
   author    = {Anja Belz and
                Adrian Muscat and
                Pierre Anguill and
