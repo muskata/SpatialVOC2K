@@ -6,7 +6,7 @@ https://www.aclweb.org/anthology/W18-6516
 
 #### Bibtex:
 
-@inproceedings{Belzetal2019,\s\s
+@inproceedings{Belzetal2019,  
   author    = {Anja Belz and
                Adrian Muscat and
                Pierre Anguill and
